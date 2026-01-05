@@ -1,59 +1,58 @@
-QR Code Component
-Простое и чистое решение задачи QR-код компонента от Frontend Mentor.
+# QR Code Component  
+A simple and clean solution to the QR code component challenge from Frontend Mentor.
 
-🚀 ЖИВОЙ ДЕМО
-Посмотреть на GitHub Pages:
+🚀 **LIVE DEMO**  
+View on GitHub Pages:  
 https://thought-del.github.io/product-preview-card/
 
+## **PROJECT STRUCTURE**
 
- СТРУКТУРА ПРОЕКТА
-
+```
 QR/
-├── index.html          # Главный HTML файл
-├── style.css           # Стили CSS
-├── images/             # Папка с изображениями
+├── index.html          # Main HTML file
+├── style.css           # CSS styles
+├── images/             # Images folder
 │   └── image-qr-code.png
-└── README.md           # Этот файл
+└── README.md           # This file
+```
 
-🛠 ТЕХНОЛОГИИ
+## **TECHNOLOGIES USED**
 
-HTML5 (семантическая верстка)
-CSS3 (Flexbox, адаптивный дизайн)
-Mobile-first подход
-GitHub Pages для хостинга
+- HTML5 (semantic markup)
+- CSS3 (Flexbox, responsive design)
+- Mobile-first approach
+- GitHub Pages for hosting
 
-📋 ТРЕБОВАНИЯ
+## **REQUIREMENTS**
 
-Вёрстка соответствует макету
-Адаптивность (375px - 1440px+)
-Корректные пути к файлам
-Доступность (alt-текст, семантика)
-Оптимизация изображений
+- Layout matches the design
+- Responsiveness (375px - 1440px+)
+- Correct file paths
+- Accessibility (alt text, semantics)
+- Optimized images
 
-🎯 ОСОБЕННОСТИ РЕАЛИЗАЦИИ
+## **IMPLEMENTATION FEATURES**
 
-Mobile-first подход
-Адаптивные единицы измерения
-Высокий контраст текста (WCAG AA)
-Чистая семантическая разметка
-Оптимизированные изображения
+- Mobile-first approach
+- Responsive units
+- High text contrast (WCAG AA)
+- Clean semantic markup
+- Optimized images
 
-📱 АДАПТИВНОСТЬ
+## **RESPONSIVENESS**
 
-✅ 375px (стандартные мобильные)
-✅ 768px (планшеты)
-✅ 1440px (десктоп)
-✅ 1920px+ (большие экраны)
+✅ 375px (standard mobile)  
+✅ 768px (tablets)  
+✅ 1440px (desktop)  
+✅ 1920px+ (large screens)
 
+## **AUTHOR**
 
-👤 АВТОР
+**PETR**  
+GitHub: https://github.com/Thought-del
 
-PETR
+## **LICENSE**
 
-GitHub: https://github.com/Thought-del 
+This project was created for educational purposes. Free to use and modify.
 
-📄 ЛИЦЕНЗИЯ
-Этот проект создан в рамках обучения. Свободно для использования и модификации.
-
-
-Поставьте ⭐️ если проект был полезен!
+**Give a ⭐️ if you found this project helpful!**
